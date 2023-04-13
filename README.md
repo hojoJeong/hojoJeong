@@ -1,8 +1,8 @@
 ### 안녕하세요! 개발자 정호조입니다😊
 
-##### 🥰 Incheon National University AppCenter 10.5th Android Developer
-##### 🦁 LikeLion 7th
-##### 🖥️ Samsumg SW Academy For Youth 8th
+#### 🥰 Incheon National University AppCenter 10.5th Android Developer (2017.06 ~ 2020.02)
+#### 🦁 LikeLion 7th (2018.03 ~ 2020.02)
+#### 🖥️ Samsumg SW Academy For Youth 8th Mobile Track (2022.07 ~ )
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojoJeong&&show_icons=true&theme=darcula)
