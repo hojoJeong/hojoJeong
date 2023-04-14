@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Android%20Studio-313335?style=flat-square&logo=androidstudio&logoColor=99CC00"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-565656?style=flat-square&logo=visualstudio&logoColor=CB96F8"/>
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=CB96F8"/>
   <img src="https://img.shields.io/badge/PostMan-FF6C37?style=flat-square&logo=PostMan&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-EEEEEE?style=flat-square&logo=Notion&logoColor=black"/>
