@@ -43,4 +43,4 @@
 </p>
 </b>
 
-![snake gif](https://github.com/hojoJeong/hojoJeong/blob/output/github-contribution-grid-snake.svg)
+[snake gif](https://github.com/hojoJeong/hojoJeong/blob/output/github-contribution-grid-snake.svg)
