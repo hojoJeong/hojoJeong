@@ -42,5 +42,3 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 </p>
 </b>
-
-![snake gif](https://github.com/hojoJeong/hojoJeong/blob/output/github-contribution-grid-snake.svg)
