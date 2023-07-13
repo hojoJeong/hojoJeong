@@ -6,7 +6,7 @@
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojoJeong&layout=compact&theme=dracula"><br><br>
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <p>
   <a href="https://www.instagram.com/jhj_423/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
