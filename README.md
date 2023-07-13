@@ -2,7 +2,7 @@
 
 #### 🥰 Incheon National University AppCenter 10.5th Android Developer (2017.06 ~ 2020.02)
 #### 🦁 LikeLion 7th (2018.03 ~ 2020.02)
-#### 🖥️ Samsung SW Academy For Youth 8th Mobile Track (2022.07 ~ )
+#### 🖥️ Samsung SW Academy For Youth 8th Mobile Track (2022.07 ~ 2023.06)
 </br>
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
