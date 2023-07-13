@@ -4,8 +4,8 @@
 #### 🦁 LikeLion 7th (2018.03 ~ 2020.02)
 #### 🖥️ Samsung SW Academy For Youth 8th Mobile Track (2022.07 ~ )
 </br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojoJeong&layout=compact&theme=dracula"><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojoJeong&show_icons=true&theme=darcula)
 <p>
   <a href="https://www.instagram.com/jhj_423/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
