@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hojo's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+
 ### 안녕하세요! 개발자 정호조입니다😊 <a href="https://www.instagram.com/jhj_423/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 #### 🥰 Incheon National University AppCenter 10.5th Android Developer (2017.06 ~ 2020.02)
@@ -6,10 +8,6 @@
 </br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojoJeong&layout=compact&theme=dracula">
-
-![snake gif](https://github.com/hojoJeong/hojoJeong/blob/output/github-contribution-grid-snake.svg)
-
-</b>
 
 <hr>
 
