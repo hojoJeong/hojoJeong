@@ -5,7 +5,9 @@
 #### 🖥️ Samsung SW Academy For Youth 8th Mobile Track (2022.07 ~ 2023.06)
 </br>
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojoJeong&layout=compact&theme=dracula">
+
+![snake gif](https://github.com/hojoJeong/hojoJeong/blob/output/github-contribution-grid-snake.svg)
 
 </b>
 
