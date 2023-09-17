@@ -28,6 +28,7 @@
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/Android%20Studio-313335?style=flat-square&logo=androidstudio&logoColor=99CC00"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-565656?style=flat-square&logo=visualstudio&logoColor=CB96F8"/>
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=CB96F8"/>
