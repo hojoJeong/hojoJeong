@@ -3,7 +3,7 @@
 ### 안녕하세요! 정호조입니다😊
 <a href="https://hojojeong.notion.site/HoJo-Jeong-c410f737ac4d467fb21d93e5da4f14ea?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href="https://www.instagram.com/jhj_423/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
 #### 🥰 Incheon National University AppCenter 10.5th Android Developer (2017.06 ~ 2020.02)
-#### 🦁 LikeLion 7th (2018.03 ~ 2020.02)
+#### 🦁 LikeLion 7th (2018.07 ~ 2020.02)
 #### 🖥️ Samsung SW Academy For Youth 8th Mobile Track (2022.07 ~ 2023.06)
 #### 🏢 Cheil Worldwide CXDev Team (2024.04 ~ ing)
 </br>
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
 </p>
 
 #### Languages
@@ -25,18 +26,24 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 </p>
  
-#### Tools
+#### ETC
 <p>
+  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=JetpackCompose&logoColor=99CC00"/>
+  <img src="https://img.shields.io/badge/LLM-565656?style=flat-square&logo=llm&logoColor=CB96F8"/>
+  <img src="https://img.shields.io/badge/RAG-565656?style=flat-square&logo=visualstudio&logoColor=CB96F8"/>
+  <img src="https://img.shields.io/badge/Function Calling-565656?style=flat-square&logo=visualstudio&logoColor=CB96F8"/>
+  <br>
   <img src="https://img.shields.io/badge/Android%20Studio-313335?style=flat-square&logo=androidstudio&logoColor=99CC00"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-565656?style=flat-square&logo=visualstudio&logoColor=CB96F8"/>
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=CB96F8"/>
-  <img src="https://img.shields.io/badge/PostMan-FF6C37?style=flat-square&logo=PostMan&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostMan-FF6C37?style=flat-square&logo=PostMan&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
