@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 </p>
  
-#### ETC
+#### ETC 
 <p>
   <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=JetpackCompose&logoColor=99CC00"/>
   <img src="https://img.shields.io/badge/LLM-565656?style=flat-square&logo=llm&logoColor=CB96F8"/>
