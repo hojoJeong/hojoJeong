@@ -5,7 +5,8 @@
 #### 🥰 Incheon National University AppCenter 10.5th Android Developer (2017.06 ~ 2020.02)
 #### 🦁 LikeLion 7th (2018.07 ~ 2020.02)
 #### 🖥️ Samsung SW Academy For Youth 8th Mobile Track (2022.07 ~ 2023.06)
-#### 🏢 Cheil Worldwide CXDev Team (2024.04 ~ ing)
+#### 🏢 Cheil Worldwide CXDev Team (2024.04 ~ 2026.07)
+#### 🏢 Kyobo Book Center Online mall Dev Team (2026.07 ~ ing)
 <hr>
 
 ### 💪Skills
@@ -14,7 +15,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
 </p>
 
 #### Languages
